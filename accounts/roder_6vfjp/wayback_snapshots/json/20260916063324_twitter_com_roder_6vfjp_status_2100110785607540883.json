@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2093150639992061952",
+    "conversation_id": "2100110785607540883",
+    "created_at": "2026-09-16T06:33:24.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T07:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100110785607540883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2092788164234821632",
+          "start": 3,
+          "username": "Yuki1161_IC26"
+        },
+        {
+          "end": 32,
+          "id": "2094681707052212224",
+          "start": 19,
+          "username": "nanahime1cpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100110785607540883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096625586877628908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki1161_IC26: @nanahime1cpc 精神活性物质是对的，你没错菜菜，错的是这个环境这个生活"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [nanahime1cpc].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "nanahime1cpc",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "nanahime1cpc"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093150639992061952",
+        "conversation_id": "2100110785607540883",
+        "created_at": "2026-09-16T06:33:24.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100110785607540883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2092788164234821632",
+              "start": 3,
+              "username": "Yuki1161_IC26"
+            },
+            {
+              "end": 32,
+              "id": "2094681707052212224",
+              "start": 19,
+              "username": "nanahime1cpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100110785607540883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096625586877628908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki1161_IC26: @nanahime1cpc 精神活性物质是对的，你没错菜菜，错的是这个环境这个生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092788164234821632",
+        "conversation_id": "2096617469658190104",
+        "created_at": "2026-09-06T15:44:27.000Z",
+        "display_text_range": [
+          14,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096625586877628908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094681707052212224",
+              "start": 0,
+              "username": "nanahime1cpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096625586877628908",
+        "in_reply_to_user_id": "2094681707052212224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096617469658190104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanahime1cpc 精神活性物质是对的，你没错菜菜，错的是这个环境这个生活"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T01:37:50.000Z",
+        "description": "我是菜菜，三号机已坠机，请帮我寻回互关｜od自伤｜一般路过同人女｜傻福精神病休学中｜直fo是喜欢泥💖｜坚定的爱乱TV｜\n我的灵魂相伴@kurokisama_TvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2093150639992061952",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2100110785607540883",
+        "name": "菜菜警官4.0（寻回互关）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093150639992061952/1789497304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099932916256231424/qm6-56FO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 50,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "roder_6vfjp",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:37:48.000Z",
+        "description": "🚪8.9/6.4 用于给习主席买包子吃/岐哥第六世\n一具白骨晒太阳 在某种药物铺满的地毯上\n早已逝去之人 早已宽恕之罪\n属于我的姐姐@Cecey33 ⁺共号\n直fo喜歡的人/喜欢🐱/逃生仓 @Yuki3Mepcpy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 66,
+                "username": "Cecey33"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yuki3Mepcpy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki3mepcpy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki3mepcpy",
+                "start": 0,
+                "url": "https://t.co/d3QOTu2Gty"
+              }
+            ]
+          }
+        },
+        "id": "2092788164234821632",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2099159161749504377",
+        "name": "岐#心宿二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092788164234821632/1788035697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096464883303010304/XZtwCCUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 335,
+          "like_count": 1180,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1107
+        },
+        "url": "https://t.co/d3QOTu2Gty",
+        "username": "Yuki1161_IC26",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

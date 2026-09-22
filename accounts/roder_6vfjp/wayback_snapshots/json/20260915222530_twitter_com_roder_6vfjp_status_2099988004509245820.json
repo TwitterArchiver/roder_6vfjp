@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099756530191175680",
+        "3_2099756539947188224"
+      ],
+      "media_source_tweet_id": [
+        "2099756548092489892",
+        "2099756548092489892"
+      ]
+    },
+    "author_id": "2093150639992061952",
+    "conversation_id": "2099988004509245820",
+    "created_at": "2026-09-15T22:25:30.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T23:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099988004509245820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1677270742705270784",
+          "start": 3,
+          "username": "GEACPS1940629"
+        },
+        {
+          "end": 51,
+          "id": "2094681707052212224",
+          "start": 38,
+          "username": "nanahime1cpc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I2lyJxNx3g",
+          "end": 140,
+          "expanded_url": "https://x.com/GEACPS1940629/status/2099756548092489892/photo/1",
+          "media_key": "3_2099756530191175680",
+          "start": 117,
+          "url": "https://t.co/I2lyJxNx3g"
+        },
+        {
+          "display_url": "pic.x.com/I2lyJxNx3g",
+          "end": 140,
+          "expanded_url": "https://x.com/GEACPS1940629/status/2099756548092489892/photo/1",
+          "media_key": "3_2099756539947188224",
+          "start": 117,
+          "url": "https://t.co/I2lyJxNx3g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099988004509245820",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099756530191175680"
+      },
+      {
+        "media_key": "3_2099756539947188224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099756548092489892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GEACPS1940629: 不是，菜菜姐姐的賬號怎麽又被封號了？ @nanahime1cpc\n\n不過好在，我之前保存了她發帖請求打賞的截圖（圖二），可以知道她的微信賬號，不會像之前的另外一個姐姐一樣，賬號出問題後就完全失聯 https://t.co/I2lyJxNx3g"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [nanahime1cpc].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "nanahime1cpc",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "nanahime1cpc"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2374,
+        "media_key": "3_2099756530191175680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPVcHDaEAAmZTI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 923,
+        "media_key": "3_2099756539947188224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPVcrZbAAALXNd.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099756530191175680",
+            "3_2099756539947188224"
+          ],
+          "media_source_tweet_id": [
+            "2099756548092489892",
+            "2099756548092489892"
+          ]
+        },
+        "author_id": "2093150639992061952",
+        "conversation_id": "2099988004509245820",
+        "created_at": "2026-09-15T22:25:30.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T23:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099988004509245820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1677270742705270784",
+              "start": 3,
+              "username": "GEACPS1940629"
+            },
+            {
+              "end": 51,
+              "id": "2094681707052212224",
+              "start": 38,
+              "username": "nanahime1cpc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I2lyJxNx3g",
+              "end": 140,
+              "expanded_url": "https://x.com/GEACPS1940629/status/2099756548092489892/photo/1",
+              "media_key": "3_2099756530191175680",
+              "start": 117,
+              "url": "https://t.co/I2lyJxNx3g"
+            },
+            {
+              "display_url": "pic.x.com/I2lyJxNx3g",
+              "end": 140,
+              "expanded_url": "https://x.com/GEACPS1940629/status/2099756548092489892/photo/1",
+              "media_key": "3_2099756539947188224",
+              "start": 117,
+              "url": "https://t.co/I2lyJxNx3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099988004509245820",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099756530191175680"
+          },
+          {
+            "media_key": "3_2099756539947188224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099756548092489892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GEACPS1940629: 不是，菜菜姐姐的賬號怎麽又被封號了？ @nanahime1cpc\n\n不過好在，我之前保存了她發帖請求打賞的截圖（圖二），可以知道她的微信賬號，不會像之前的另外一個姐姐一樣，賬號出問題後就完全失聯 https://t.co/I2lyJxNx3g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099756530191175680",
+            "3_2099756539947188224"
+          ]
+        },
+        "author_id": "1677270742705270784",
+        "conversation_id": "2099756548092489892",
+        "created_at": "2026-09-15T07:05:47.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T08:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099756548092489892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "2094681707052212224",
+              "start": 19,
+              "username": "nanahime1cpc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I2lyJxNx3g",
+              "end": 121,
+              "expanded_url": "https://x.com/GEACPS1940629/status/2099756548092489892/photo/1",
+              "media_key": "3_2099756530191175680",
+              "start": 98,
+              "url": "https://t.co/I2lyJxNx3g"
+            },
+            {
+              "display_url": "pic.x.com/I2lyJxNx3g",
+              "end": 121,
+              "expanded_url": "https://x.com/GEACPS1940629/status/2099756548092489892/photo/1",
+              "media_key": "3_2099756539947188224",
+              "start": 98,
+              "url": "https://t.co/I2lyJxNx3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099756548092489892",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099756530191175680"
+          },
+          {
+            "media_key": "3_2099756539947188224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 307,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不是，菜菜姐姐的賬號怎麽又被封號了？ @nanahime1cpc\n\n不過好在，我之前保存了她發帖請求打賞的截圖（圖二），可以知道她的微信賬號，不會像之前的另外一個姐姐一樣，賬號出問題後就完全失聯 https://t.co/I2lyJxNx3g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T01:37:50.000Z",
+        "description": "我是菜菜，三号机已坠机，请帮我寻回互关｜od自伤｜一般路过同人女｜傻福精神病休学中｜直fo是喜欢泥💖｜坚定的爱乱TV｜\n我的灵魂相伴@kurokisama_TvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2093150639992061952",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2099988004509245820",
+        "name": "菜菜警官4.0（寻回互关）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093150639992061952/1789497304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099932916256231424/qm6-56FO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 19,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "roder_6vfjp",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-07T10:58:18.000Z",
+        "description": "@撐雨傘的湯普尼🇺🇸🇪🇺🇺🇦 的小號丨不談政治，鍵政人請遠離｜心理狀態很糟糕，想讓人安慰，Telegram的鏈接就放在這了，和我聊聊天吧🥺\n\n小號：@TenpennyL62429\n\n提問箱：https://t.co/zN1fnV0uNx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "TenpennyL62429"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.tenpenny2",
+                "end": 118,
+                "expanded_url": "https://ngl.link/mr.tenpenny2",
+                "start": 95,
+                "url": "https://t.co/zN1fnV0uNx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://telegram.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/qNSceYpy5B"
+              }
+            ]
+          }
+        },
+        "id": "1677270742705270784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099953003906388350",
+        "name": "Mr.湯普尼▐┛",
+        "pinned_tweet_id": "1954982607738847246",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677270742705270784/1737476278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003522899798269952/v4chWipq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 6915,
+          "like_count": 112389,
+          "listed_count": 3,
+          "media_count": 4525,
+          "tweet_count": 12399
+        },
+        "url": "https://t.co/qNSceYpy5B",
+        "username": "GEACPS1940629",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

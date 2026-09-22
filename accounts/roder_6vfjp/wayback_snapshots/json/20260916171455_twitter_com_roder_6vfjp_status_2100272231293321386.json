@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100272176960249856"
+      ]
+    },
+    "author_id": "2093150639992061952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2100272231293321386",
+    "created_at": "2026-09-16T17:14:55.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T18:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100272231293321386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nXco6Phvqf",
+          "end": 35,
+          "expanded_url": "https://x.com/roder_6vfjp/status/2100272231293321386/photo/1",
+          "media_key": "3_2100272176960249856",
+          "start": 12,
+          "url": "https://t.co/nXco6Phvqf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100272231293321386",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100272176960249856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我找茬都想不出来这种话 https://t.co/nXco6Phvqf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 784,
+        "media_key": "3_2100272176960249856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWqas9aIAA4fVh.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100272176960249856"
+          ]
+        },
+        "author_id": "2093150639992061952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100272231293321386",
+        "created_at": "2026-09-16T17:14:55.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T18:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100272231293321386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXco6Phvqf",
+              "end": 35,
+              "expanded_url": "https://x.com/roder_6vfjp/status/2100272231293321386/photo/1",
+              "media_key": "3_2100272176960249856",
+              "start": 12,
+              "url": "https://t.co/nXco6Phvqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100272231293321386",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100272176960249856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我找茬都想不出来这种话 https://t.co/nXco6Phvqf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T01:37:50.000Z",
+        "description": "我是菜菜，三号机已坠机，请帮我寻回互关｜od自伤｜一般路过同人女｜傻福精神病休学中｜直fo是喜欢泥💖｜坚定的爱乱TV｜\n我的灵魂相伴@kurokisama_TvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2093150639992061952",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2100272231293321386",
+        "name": "菜菜警官4.0（寻回互关）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093150639992061952/1789497304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099932916256231424/qm6-56FO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 98,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "roder_6vfjp",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

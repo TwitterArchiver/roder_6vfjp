@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2093150639992061952",
+    "conversation_id": "2099931200664248431",
+    "created_at": "2026-09-16T02:47:26.000Z",
+    "display_text_range": [
+      9,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T03:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100053918768320624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1494669485214633984",
+          "start": 0,
+          "username": "_Axer1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100053918768320624",
+    "in_reply_to_user_id": "1494669485214633984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100041570632495556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Axer1a 🥹🥹🥹第一次的话用60mg就够了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093150639992061952",
+        "conversation_id": "2099931200664248431",
+        "created_at": "2026-09-16T02:47:26.000Z",
+        "display_text_range": [
+          9,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100053918768320624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "_Axer1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100053918768320624",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100041570632495556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Axer1a 🥹🥹🥹第一次的话用60mg就够了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2099931200664248431",
+        "created_at": "2026-09-16T01:58:21.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100041570632495556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2093150639992061952",
+              "start": 0,
+              "username": "roder_6vfjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100041570632495556",
+        "in_reply_to_user_id": "2093150639992061952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099931200664248431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roder_6vfjp 60mg够干啥的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T01:37:50.000Z",
+        "description": "我是菜菜，三号机已坠机，请帮我寻回互关｜od自伤｜一般路过同人女｜傻福精神病休学中｜直fo是喜欢泥💖｜坚定的爱乱TV｜\n我的灵魂相伴@kurokisama_TvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2093150639992061952",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2100053918768320624",
+        "name": "菜菜警官4.0（寻回互关）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093150639992061952/1789497304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099932916256231424/qm6-56FO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 35,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "roder_6vfjp",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/mtx(she/they) 07年生 非健全 💊&🩸/药理学习中\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 107,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 84,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2100041570632495556",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 1961,
+          "like_count": 89836,
+          "listed_count": 0,
+          "media_count": 452,
+          "tweet_count": 5613
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

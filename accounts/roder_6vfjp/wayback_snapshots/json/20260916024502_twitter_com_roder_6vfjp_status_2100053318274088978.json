@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2093150639992061952",
+    "conversation_id": "2099934333297631353",
+    "created_at": "2026-09-16T02:45:02.000Z",
+    "display_text_range": [
+      13,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T03:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100053318274088978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820207828931424256",
+          "start": 0,
+          "username": "neko0202002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100053318274088978",
+    "in_reply_to_user_id": "1820207828931424256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099959382343929980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko0202002 好的谢谢姐姐🥹✋🏻💖✋🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_2099959367080857600",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HSSN6xWb0AAag5q.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HSSN6xWb0AAag5q.mp4"
+          }
+        ],
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093150639992061952",
+        "conversation_id": "2099934333297631353",
+        "created_at": "2026-09-16T02:45:02.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100053318274088978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100053318274088978",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099959382343929980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 好的谢谢姐姐🥹✋🏻💖✋🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2099959367080857600"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2099934333297631353",
+        "created_at": "2026-09-15T20:31:46.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T21:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099959382343929980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2093150639992061952",
+              "start": 0,
+              "username": "roder_6vfjp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LpenJvvHVL",
+              "end": 50,
+              "expanded_url": "https://x.com/neko0202002/status/2099959382343929980/photo/1",
+              "media_key": "16_2099959367080857600",
+              "start": 27,
+              "url": "https://t.co/LpenJvvHVL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099959382343929980",
+        "in_reply_to_user_id": "2093150639992061952",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2099959367080857600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099934333297631353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roder_6vfjp 尽量磨得碎一点，小心鼻黏膜 https://t.co/LpenJvvHVL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T01:37:50.000Z",
+        "description": "我是菜菜，三号机已坠机，请帮我寻回互关｜od自伤｜一般路过同人女｜傻福精神病休学中｜直fo是喜欢泥💖｜坚定的爱乱TV｜\n我的灵魂相伴@kurokisama_TvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2093150639992061952",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2100053318274088978",
+        "name": "菜菜警官4.0（寻回互关）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093150639992061952/1789497304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099932916256231424/qm6-56FO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 35,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "roder_6vfjp",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2100048258328658420",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 582,
+          "like_count": 2838,
+          "listed_count": 4,
+          "media_count": 2708,
+          "tweet_count": 7865
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

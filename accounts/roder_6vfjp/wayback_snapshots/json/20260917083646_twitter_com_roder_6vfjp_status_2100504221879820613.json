@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2093150639992061952",
+    "conversation_id": "2100504221879820613",
+    "created_at": "2026-09-17T08:36:46.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T09:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100504221879820613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1445681460497694723",
+          "start": 3,
+          "username": "cryptochenrui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100504221879820613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100259484014694738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cryptochenrui: 认识你的第一天，你说pr不要喝酒一起喝会呼吸抑制的。\n现在的你说，要是pr配酒好开心呀，要是不知不觉呼吸抑制就好了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093150639992061952",
+        "conversation_id": "2100504221879820613",
+        "created_at": "2026-09-17T08:36:46.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T09:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100504221879820613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1445681460497694723",
+              "start": 3,
+              "username": "cryptochenrui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100504221879820613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100259484014694738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cryptochenrui: 认识你的第一天，你说pr不要喝酒一起喝会呼吸抑制的。\n现在的你说，要是pr配酒好开心呀，要是不知不觉呼吸抑制就好了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445681460497694723",
+        "conversation_id": "2100259484014694738",
+        "created_at": "2026-09-16T16:24:16.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100259484014694738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100259484014694738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "认识你的第一天，你说pr不要喝酒一起喝会呼吸抑制的。\n现在的你说，要是pr配酒好开心呀，要是不知不觉呼吸抑制就好了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T01:37:50.000Z",
+        "description": "我是菜菜，三号机已坠机，请帮我寻回互关｜od自伤｜一般路过同人女｜傻福精神病休学中｜直fo是喜欢泥💖｜坚定的爱乱TV｜\n我的灵魂相伴@kurokisama_TvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2093150639992061952",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2100504221879820613",
+        "name": "菜菜警官4.0（寻回互关）",
+        "pinned_tweet_id": "2099931200664248431",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093150639992061952/1789497304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099932916256231424/qm6-56FO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 103,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "roder_6vfjp",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-06T09:25:19.000Z",
+        "description": "intj/od/trader\n我是男的\n同类直fo就行。不回fo也没事",
+        "id": "1445681460497694723",
+        "is_identity_verified": false,
+        "location": "南昌",
+        "most_recent_tweet_id": "2100261727925673998",
+        "name": "ritsuka",
+        "pinned_tweet_id": "2096148398676271453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1445681460497694723/1786330998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097473888469065728/u9DlQYHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 307,
+          "like_count": 11575,
+          "listed_count": 5,
+          "media_count": 164,
+          "tweet_count": 3067
+        },
+        "url": "",
+        "username": "cryptochenrui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

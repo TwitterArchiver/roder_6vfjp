@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2093150639992061952",
+    "conversation_id": "2100145561261543828",
+    "created_at": "2026-09-16T08:51:35.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T09:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100145561261543828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Overdose_Rx/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Overdose_Rx/status/2024448903492620662",
+          "start": 17,
+          "url": "https://t.co/CaIQiClFA5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100145561261543828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024448903492620662",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "酒配pr就能死。我真得接这个了。 https://t.co/CaIQiClFA5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093150639992061952",
+        "conversation_id": "2100145561261543828",
+        "created_at": "2026-09-16T08:51:35.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T09:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100145561261543828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Overdose_Rx/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Overdose_Rx/status/2024448903492620662",
+              "start": 17,
+              "url": "https://t.co/CaIQiClFA5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100145561261543828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024448903492620662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "酒配pr就能死。我真得接这个了。 https://t.co/CaIQiClFA5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "2024448903492620662",
+        "created_at": "2026-02-19T11:40:05.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024448903492620662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024448903492620662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 49422,
+          "like_count": 442,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "参加所谓od圈的下场：\nspring风：死于服用死藤水自残\n彩加：死于od晚安后坠楼\n崔金元：劳拉西泮羟考酮普瑞巴林\n布洛妮娅：死于酒配pr\n刘宣祯：死于思诺思阿片普瑞巴林\n咴咴：死于亚硝酸钠\nspring风二周目：普挫仑普瑞巴林伏特加"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T01:37:50.000Z",
+        "description": "我是菜菜，三号机已坠机，请帮我寻回互关｜od自伤｜一般路过同人女｜傻福精神病休学中｜直fo是喜欢泥💖｜坚定的爱乱TV｜\n我的灵魂相伴@kurokisama_TvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2093150639992061952",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2100145561261543828",
+        "name": "菜菜警官4.0（寻回互关）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093150639992061952/1789497304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099932916256231424/qm6-56FO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 66,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "roder_6vfjp",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "一位神秘退出圈内的 oder",
+        "id": "622036546",
+        "is_identity_verified": false,
+        "location": "伊甸园",
+        "most_recent_tweet_id": "2077407759704916306",
+        "name": "椎名Shiina",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/622036546/1782498730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3038,
+          "following_count": 107,
+          "like_count": 11361,
+          "listed_count": 8,
+          "media_count": 719,
+          "tweet_count": 4255
+        },
+        "url": "",
+        "username": "Overdose_Rx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
